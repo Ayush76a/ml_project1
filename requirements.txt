@@ -1,0 +1,6 @@
+pandas
+numpy
+seaborn
+
+# for indicating mapping with setup.py
+-e .
